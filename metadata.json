@@ -1,0 +1,6 @@
+{
+  "name": "Escale du Pont",
+  "description": "Restaurant gastronomique d'exception alliant tradition et modernité culinaire par le Chef Olabissi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
